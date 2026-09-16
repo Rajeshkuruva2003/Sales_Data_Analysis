@@ -1,0 +1,501 @@
+order_id,order_date,region,category,product,quantity,unit_price,sales
+1,2025-01-01,East,Office Supplies,Stapler,8,10.3,82.4
+2,2025-01-01,West,Furniture,Bookshelf,7,156.14,1092.98
+3,2025-01-02,South,Electronics,Mouse,8,26.56,212.48
+4,2025-01-03,South,Electronics,Monitor,8,241.94,1935.52
+5,2025-01-03,South,Furniture,Table,5,258.81,1294.05
+6,2025-01-04,East,Furniture,Chair,9,140.61,1265.49
+7,2025-01-05,West,Office Supplies,Pen Set,3,11.58,34.74
+8,2025-01-06,North,Electronics,Keyboard,5,46.45,232.25
+9,2025-01-06,West,Electronics,Keyboard,2,51.06,102.12
+10,2025-01-07,North,Furniture,Desk,10,282.42,2824.2
+11,2025-01-08,West,Furniture,Table,7,258.25,1807.75
+12,2025-01-09,West,Office Supplies,Printer Paper,1,13.91,13.91
+13,2025-01-09,West,Furniture,,6,273.71,1642.26
+14,2025-01-10,South,Furniture,Chair,2,162.38,324.76
+15,2025-01-11,West,Furniture,Desk,4,308.81,1235.24
+16,2025-01-11,South,Office Supplies,Stapler,7,10.06,70.42
+17,2025-01-12,West,Electronics,Mouse,2,25.3,50.6
+18,2025-01-13,North,Furniture,Chair,9,140.83,1267.47
+19,2025-01-14,North,Electronics,Laptop,7,781.62,5471.34
+20,2025-01-14,East,Office Supplies,Printer Paper,3,15.93,47.79
+21,2025-01-15,South,Office Supplies,Notebook,5,9.02,45.1
+22,2025-01-16,West,Electronics,Mouse,7,27.63,193.41
+23,2025-01-17,West,Furniture,Chair,7,141.49,990.43
+24,2025-01-17,East,Electronics,Keyboard,8,41.96,335.68
+25,2025-01-18,East,Electronics,Keyboard,5,51.37,256.85
+26,2025-01-19,South,Electronics,Laptop,0,736.64,7366.4
+27,2025-01-19,South,Office Supplies,Printer Paper,9,15.95,143.55
+28,2025-01-20,East,Furniture,Table,3,214.86,644.58
+29,2025-01-21,East,Electronics,Mouse,4,28.06,112.24
+30,2025-01-22,East,Office Supplies,Notebook,4,9.06,36.24
+31,2025-01-22,South,Office Supplies,Printer Paper,6,16.71,100.26
+32,2025-01-23,West,Electronics,Monitor,9,193.96,1745.64
+33,2025-01-24,North,Furniture,Desk,10,265.99,2659.9
+34,2025-01-25,East,Office Supplies,Pen Set,1,11.18,11.18
+35,2025-01-25,East,Furniture,Chair,4,143.37,573.48
+36,2025-01-26,South,Office Supplies,Pen Set,8,12.12,96.96
+37,2025-01-27,West,Electronics,Laptop,3,744.66,2233.98
+38,2025-01-27,West,Office Supplies,Printer Paper,6,13.73,82.38
+39,2025-01-28,South,Electronics,Mouse,1,21.74,21.74
+40,2025-01-29,North,Furniture,Bookshelf,2,191.46,382.92
+41,2025-01-30,South,Electronics,Mouse,1,,23.25
+42,2025-01-30,West,Furniture,Table,6,214.98,1289.88
+43,2025-01-31,North,Electronics,Laptop,3,843.37,2530.11
+44,2025-02-01,West,Furniture,Table,6,230.65,1383.9
+45,2025-02-02,East,Office Supplies,Printer Paper,8,13.82,110.56
+46,2025-02-02,South,Furniture,Table,5,259.92,1299.6
+47,2025-02-03,East,Furniture,Bookshelf,1,161.14,161.14
+48,2025-02-04,East,Furniture,Table,3,256.82,770.46
+49,2025-02-05,West,Office Supplies,Pen Set,3,13.11,39.33
+50,2025-02-05,West,Office Supplies,Stapler,9,10.57,95.13
+51,2025-02-06,West,Office Supplies,Pen Set,8,10.7,85.6
+52,2025-02-07,South,Electronics,Laptop,2,901.93,1803.86
+53,2025-02-07,South,Furniture,Bookshelf,7,188.64,1320.48
+54,2025-02-08,West,Electronics,Mouse,1,23.06,23.06
+55,2025-02-09,East,Furniture,Table,5,280.03,1400.15
+56,2025-02-10,West,Office Supplies,Notebook,9,7.64,68.76
+57,2025-02-10,North,Office Supplies,Stapler,8,9.71,77.68
+58,2025-02-11,West,Office Supplies,Notebook,8,8.68,69.44
+59,2025-02-12,North,Furniture,Bookshelf,9,188.83,1699.47
+60,2025-02-13,East,Furniture,Table,2,248.92,497.84
+61,2025-02-13,North,Electronics,Laptop,4,850.92,3403.68
+62,2025-02-14,West,Furniture,Chair,4,143.99,575.96
+63,2025-02-15,West,Office Supplies,Printer Paper,1,14.14,14.14
+64,2025-02-15,South,Office Supplies,Printer Paper,6,13.94,83.64
+65,2025-02-16,South,Furniture,Desk,6,290.38,1742.28
+66,2025-02-17,North,Office Supplies,Printer Paper,2,14.33,28.66
+67,2025-02-18,North,Office Supplies,Stapler,1,9.09,9.09
+68,2025-02-18,West,Office Supplies,Stapler,3,10.81,32.43
+69,2025-02-19,West,Electronics,Mouse,5,27.88,139.4
+70,2025-02-20,South,Electronics,Laptop,8,759.38,6075.04
+71,2025-02-21,West,Electronics,Keyboard,3,51.48,154.44
+72,2025-02-21,North,Office Supplies,Notebook,5,7.26,36.3
+73,2025-02-22,East,Office Supplies,Stapler,2,10.17,20.34
+74,2025-02-23,West,Furniture,Desk,3,306.31,918.93
+75,2025-02-23,East,Furniture,Table,6,239.4,1436.4
+76,2025-02-24,West,Office Supplies,Pen Set,2,11.36,22.72
+77,2025-02-25,North,Electronics,Laptop,6,766.28,4597.68
+78,2025-02-26,North,Furniture,Bookshelf,10,196.75,1967.5
+79,2025-02-26,West,Electronics,Mouse,10,21.29,212.9
+80,2025-02-27,South,Electronics,Mouse,1,21.78,21.78
+81,2025-02-28,West,Furniture,Table,3,237.85,713.55
+82,2025-03-01,East,Furniture,Desk,7,315.48,2208.36
+83,2025-03-01,South,Electronics,Monitor,6,225.99,1355.94
+84,2025-03-02,South,Electronics,Mouse,10,27.42,274.2
+85,2025-03-03,North,Office Supplies,Stapler,5,10.07,50.35
+86,2025-03-04,West,Electronics,Keyboard,4,49.62,198.48
+87,2025-03-04,West,Furniture,Bookshelf,3,187.42,562.26
+88,2025-03-05,North,Electronics,Monitor,10,208.32,2083.2
+89,2025-03-06,North,Office Supplies,Printer Paper,10,13.1,131.0
+90,2025-03-06,West,Furniture,Chair,7,146.77,1027.39
+91,2025-03-07,East,Electronics,Laptop,10,899.65,8996.5
+92,2025-03-08,West,Furniture,Table,6,266.09,1596.54
+93,2025-03-09,East,Electronics,Laptop,1,909.17,909.17
+94,2025-03-09,East,Office Supplies,Notebook,6,8.55,51.3
+95,2025-03-10,North,Furniture,Table,3,269.34,808.02
+96,2025-03-11,South,Electronics,Monitor,5,193.21,966.05
+97,2025-03-12,West,Furniture,Desk,4,270.78,1083.12
+98,2025-03-12,North,Furniture,Desk,5,297.61,1488.05
+99,2025-03-13,South,Furniture,Desk,5,290.87,1454.35
+100,2025-03-14,East,Furniture,Chair,4,129.54,518.16
+101,2025-03-14,North,Furniture,Desk,3,300.28,900.84
+102,2025-03-15,West,Electronics,Laptop,4,827.8,3311.2
+103,2025-03-16,West,Office Supplies,Pen Set,1,13.32,13.32
+104,2025-03-17,East,Office Supplies,Stapler,8,10.53,84.24
+105,2025-03-17,West,Electronics,Laptop,3,876.95,2630.85
+106,2025-03-18,East,Office Supplies,Notebook,1,8.36,8.36
+107,2025-03-19,South,Electronics,Laptop,2,689.35,1378.7
+108,2025-03-20,North,Office Supplies,Printer Paper,1,15.7,15.7
+109,2025-03-20,East,Furniture,Desk,10,285.66,2856.6
+110,2025-03-21,South,Electronics,Keyboard,4,47.6,190.4
+111,2025-03-22,North,Electronics,Keyboard,8,48.17,385.36
+112,2025-03-22,North,Electronics,Laptop,4,722.59,2890.36
+113,2025-03-23,South,Office Supplies,Notebook,3,7.79,23.37
+114,2025-03-24,West,Electronics,Keyboard,8,49.96,399.68
+115,2025-03-25,East,Electronics,Mouse,1,26.35,26.35
+116,2025-03-25,North,Electronics,Keyboard,9,43.35,390.15
+117,2025-03-26,East,Furniture,Table,9,236.5,2128.5
+118,2025-03-27,North,Office Supplies,Notebook,4,6.83,27.32
+119,2025-03-28,South,Office Supplies,Stapler,9,9.46,85.14
+120,2025-03-28,East,Office Supplies,Stapler,4,10.22,40.88
+121,2025-03-29,West,Electronics,Laptop,3,824.59,2473.77
+122,2025-03-30,West,Office Supplies,Notebook,4,9.07,36.28
+123,2025-03-30,East,Electronics,Keyboard,5,44.92,224.6
+124,2025-03-31,East,Furniture,Bookshelf,10,176.84,1768.4
+125,2025-04-01,North,Electronics,Keyboard,2,51.33,102.66
+126,2025-04-02,East,Furniture,Desk,1,264.1,264.1
+127,2025-04-02,South,Furniture,Chair,8,130.77,1046.16
+128,2025-04-03,North,Office Supplies,Pen Set,2,10.49,20.98
+129,2025-04-04,North,Furniture,Bookshelf,8,173.21,1385.68
+130,2025-04-05,North,Furniture,Table,1,283.54,283.54
+131,2025-04-05,East,Electronics,Mouse,4,24.07,96.28
+132,2025-04-06,South,Office Supplies,Notebook,6,8.49,50.94
+133,2025-04-07,North,Furniture,Bookshelf,7,176.46,1235.22
+134,2025-04-08,West,Electronics,Monitor,10,235.9,2359.0
+135,2025-04-08,East,Electronics,Keyboard,9,48.3,434.7
+136,2025-04-09,North,Electronics,Mouse,9,24.06,216.54
+137,2025-04-10,South,Electronics,Mouse,1,22.93,22.93
+138,2025-04-10,North,Furniture,Table,5,215.76,1078.8
+139,2025-04-11,East,Office Supplies,Stapler,5,9.26,46.3
+140,2025-04-12,East,Electronics,Monitor,9,201.31,1811.79
+141,2025-04-13,East,Office Supplies,Notebook,5,8.47,42.35
+142,2025-04-13,West,Office Supplies,Notebook,10,9.08,90.8
+143,2025-04-14,West,Furniture,Table,8,259.01,2072.08
+144,2025-04-15,South,Furniture,Table,4,247.28,989.12
+145,2025-04-16,West,Furniture,Table,5,285.58,1427.9
+146,2025-04-16,North,Office Supplies,Pen Set,1,11.21,11.21
+147,2025-04-17,South,Electronics,Mouse,3,27.42,82.26
+148,2025-04-18,South,Office Supplies,Stapler,5,10.34,51.7
+149,2025-04-18,North,Furniture,Table,2,253.87,507.74
+150,2025-04-19,South,Office Supplies,Stapler,1,10.83,10.83
+151,2025-04-20,North,Office Supplies,Notebook,5,8.6,43.0
+152,2025-04-21,South,Furniture,Bookshelf,1,198.27,198.27
+153,2025-04-21,East,Electronics,Keyboard,1,38.43,38.43
+154,2025-04-22,North,Furniture,Table,1,252.58,252.58
+155,2025-04-23,North,Furniture,Bookshelf,5,184.6,923.0
+156,2025-04-24,North,Electronics,Monitor,10,211.94,2119.4
+157,2025-04-24,North,Furniture,Chair,1,170.43,170.43
+158,2025-04-25,South,Furniture,Chair,1,161.56,161.56
+159,2025-04-26,South,Office Supplies,Stapler,7,10.51,73.57
+160,2025-04-26,West,Furniture,Desk,3,301.81,905.43
+161,2025-04-27,East,Electronics,Monitor,5,192.83,964.15
+162,2025-04-28,North,Electronics,Laptop,7,861.23,6028.61
+163,2025-04-29,West,Furniture,Desk,3,336.28,1008.84
+164,2025-04-29,South,Furniture,Desk,2,308.09,616.18
+165,2025-04-30,West,Office Supplies,Printer Paper,3,16.82,50.46
+166,2025-05-01,West,Electronics,Monitor,1,238.72,238.72
+167,2025-05-02,North,Furniture,Bookshelf,10,199.57,1995.7
+168,2025-05-02,South,Electronics,Mouse,10,28.2,282.0
+169,2025-05-03,South,Electronics,Mouse,4,24.69,98.76
+170,2025-05-04,East,Furniture,Chair,2,142.29,284.58
+171,2025-05-05,East,Office Supplies,Stapler,3,10.11,30.33
+172,2025-05-05,West,Office Supplies,Stapler,6,10.59,63.54
+173,2025-05-06,West,Electronics,Keyboard,3,45.21,135.63
+174,2025-05-07,North,Furniture,Chair,10,137.57,1375.7
+175,2025-05-07,North,Electronics,Monitor,10,198.68,1986.8
+176,2025-05-08,South,Furniture,Chair,5,148.24,741.2
+177,2025-05-09,North,Furniture,Desk,1,300.31,300.31
+178,2025-05-10,North,Office Supplies,Notebook,10,8.72,87.2
+179,2025-05-10,East,Furniture,Bookshelf,8,200.17,1601.36
+180,2025-05-11,West,Electronics,Laptop,10,888.39,8883.9
+181,2025-05-12,East,Electronics,Keyboard,4,41.08,164.32
+182,2025-05-13,South,Furniture,Desk,10,323.4,3234.0
+183,2025-05-13,West,Furniture,Chair,10,129.15,1291.5
+184,2025-05-14,South,Office Supplies,Printer Paper,3,16.78,50.34
+185,2025-05-15,East,Office Supplies,Printer Paper,2,14.76,29.52
+186,2025-05-15,West,Office Supplies,Printer Paper,9,16.07,144.63
+187,2025-05-16,South,Furniture,Bookshelf,9,198.4,1785.6
+188,2025-05-17,West,Furniture,Desk,9,335.15,3016.35
+189,2025-05-18,North,Electronics,Mouse,10,27.17,271.7
+190,2025-05-18,South,Furniture,Bookshelf,4,182.0,728.0
+191,2025-05-19,East,Office Supplies,Stapler,8,9.79,78.32
+192,2025-05-20,South,Furniture,Chair,5,143.84,719.2
+193,2025-05-21,South,Furniture,Bookshelf,8,179.91,1439.28
+194,2025-05-21,North,Electronics,Laptop,1,681.81,681.81
+195,2025-05-22,South,Furniture,Desk,7,298.9,2092.3
+196,2025-05-23,East,Office Supplies,Pen Set,8,13.43,107.44
+197,2025-05-23,West,Office Supplies,Printer Paper,8,15.89,127.12
+198,2025-05-24,East,Office Supplies,Pen Set,2,12.27,24.54
+199,2025-05-25,West,Office Supplies,Pen Set,6,11.13,66.78
+200,2025-05-26,East,Furniture,Bookshelf,9,191.8,1726.2
+201,2025-05-26,South,Furniture,Bookshelf,5,163.1,815.5
+202,2025-05-27,West,Office Supplies,Stapler,1,10.71,10.71
+203,2025-05-28,South,Office Supplies,Notebook,10,8.64,86.4
+204,2025-05-29,East,Electronics,Monitor,4,208.16,832.64
+205,2025-05-29,North,Electronics,Monitor,2,216.98,433.96
+206,2025-05-30,South,Office Supplies,Pen Set,2,11.36,22.72
+207,2025-05-31,North,Electronics,Keyboard,5,38.29,191.45
+208,2025-05-31,East,Office Supplies,Printer Paper,8,15.48,123.84
+209,2025-06-01,West,Furniture,Bookshelf,1,198.94,198.94
+210,2025-06-02,North,Furniture,Desk,5,320.78,1603.9
+211,2025-06-03,West,Furniture,Table,3,217.49,652.47
+212,2025-06-03,North,Furniture,Table,8,274.6,2196.8
+213,2025-06-04,North,Furniture,Table,3,224.82,674.46
+214,2025-06-05,North,Office Supplies,Printer Paper,10,16.84,168.4
+215,2025-06-06,West,Electronics,Monitor,9,232.08,2088.72
+216,2025-06-06,North,Office Supplies,Stapler,3,10.37,31.11
+217,2025-06-07,North,Office Supplies,Printer Paper,1,13.79,13.79
+218,2025-06-08,West,Office Supplies,Printer Paper,2,15.2,30.4
+219,2025-06-09,East,Office Supplies,Printer Paper,3,14.69,44.07
+220,2025-06-09,West,Office Supplies,Printer Paper,8,15.87,126.96
+221,2025-06-10,East,Office Supplies,Printer Paper,1,15.15,15.15
+222,2025-06-11,North,Office Supplies,Stapler,6,10.76,64.56
+223,2025-06-11,West,Electronics,Keyboard,7,40.18,281.26
+224,2025-06-12,South,Furniture,Desk,10,299.46,2994.6
+225,2025-06-13,East,Electronics,Monitor,6,222.41,1334.46
+226,2025-06-14,North,Electronics,Mouse,4,24.23,96.92
+227,2025-06-14,South,Electronics,Laptop,4,853.34,3413.36
+228,2025-06-15,West,Office Supplies,Printer Paper,3,15.87,47.61
+229,2025-06-16,South,Furniture,Bookshelf,5,197.65,988.25
+230,2025-06-17,East,Furniture,Table,6,229.55,1377.3
+231,2025-06-17,South,Office Supplies,Pen Set,10,12.31,123.1
+232,2025-06-18,West,Furniture,Chair,1,128.31,128.31
+233,2025-06-19,North,Office Supplies,Stapler,4,11.26,45.04
+234,2025-06-19,East,Electronics,Mouse,10,27.03,270.3
+235,2025-06-20,South,Furniture,Chair,6,130.98,785.88
+236,2025-06-21,North,Electronics,Monitor,7,195.11,1365.77
+237,2025-06-22,North,Electronics,Monitor,4,195.23,780.92
+238,2025-06-22,West,Electronics,Keyboard,6,45.25,271.5
+239,2025-06-23,South,Office Supplies,Notebook,9,8.59,77.31
+240,2025-06-24,East,Electronics,Laptop,10,760.04,7600.4
+241,2025-06-25,South,Electronics,Monitor,6,209.86,1259.16
+242,2025-06-25,East,Office Supplies,Pen Set,1,12.31,12.31
+243,2025-06-26,East,Office Supplies,Printer Paper,6,13.54,81.24
+244,2025-06-27,North,Furniture,Chair,8,141.52,1132.16
+245,2025-06-27,South,Office Supplies,Printer Paper,6,13.74,82.44
+246,2025-06-28,North,Electronics,Laptop,7,914.13,6398.91
+247,2025-06-29,East,Electronics,Mouse,6,27.7,166.2
+248,2025-06-30,West,Electronics,Mouse,1,23.5,23.5
+249,2025-06-30,West,Electronics,Monitor,7,215.17,1506.19
+250,2025-07-01,South,Office Supplies,Pen Set,1,10.33,10.33
+251,2025-07-02,East,Office Supplies,Pen Set,1,12.99,12.99
+252,2025-07-03,South,Furniture,Desk,6,294.67,1768.02
+253,2025-07-03,North,Furniture,Desk,3,268.97,806.91
+254,2025-07-04,South,Electronics,Keyboard,7,48.42,338.94
+255,2025-07-05,East,Furniture,Bookshelf,2,175.07,350.14
+256,2025-07-06,West,Office Supplies,Stapler,2,11.1,22.2
+257,2025-07-06,East,Electronics,Laptop,7,740.93,5186.51
+258,2025-07-07,East,Office Supplies,Printer Paper,8,13.22,105.76
+259,2025-07-08,East,Electronics,Keyboard,3,47.06,141.18
+260,2025-07-08,West,Furniture,Bookshelf,8,192.0,1536.0
+261,2025-07-09,South,Furniture,Bookshelf,4,204.0,816.0
+262,2025-07-10,East,Electronics,Monitor,7,246.16,1723.12
+263,2025-07-11,East,Furniture,Bookshelf,1,164.23,164.23
+264,2025-07-11,South,Electronics,Keyboard,4,46.93,187.72
+265,2025-07-12,South,Furniture,Chair,5,142.88,714.4
+266,2025-07-13,West,Office Supplies,Pen Set,3,12.33,36.99
+267,2025-07-14,North,Electronics,Laptop,6,865.72,5194.32
+268,2025-07-14,South,Furniture,Chair,3,170.18,510.54
+269,2025-07-15,East,Electronics,Monitor,8,252.03,2016.24
+270,2025-07-16,North,Electronics,Monitor,3,220.82,662.46
+271,2025-07-16,South,Furniture,Chair,9,139.1,1251.9
+272,2025-07-17,North,Furniture,Bookshelf,4,160.14,640.56
+273,2025-07-18,South,Electronics,Monitor,7,232.09,1624.63
+274,2025-07-19,North,Furniture,Table,5,273.63,1368.15
+275,2025-07-19,South,Furniture,Desk,1,291.47,291.47
+276,2025-07-20,South,Furniture,Table,7,220.49,1543.43
+277,2025-07-21,East,Electronics,Keyboard,9,41.85,376.65
+278,2025-07-22,South,Furniture,Table,9,249.57,2246.13
+279,2025-07-22,South,Electronics,Laptop,10,777.05,7770.5
+280,2025-07-23,East,Furniture,Desk,2,269.97,539.94
+281,2025-07-24,South,Electronics,Keyboard,5,46.39,231.95
+282,2025-07-24,West,Electronics,Laptop,8,784.93,6279.44
+283,2025-07-25,South,Electronics,Keyboard,7,46.49,325.43
+284,2025-07-26,North,Furniture,Bookshelf,8,203.59,1628.72
+285,2025-07-27,East,Electronics,Monitor,4,222.63,890.52
+286,2025-07-27,North,Office Supplies,Stapler,1,9.99,9.99
+287,2025-07-28,North,Office Supplies,Pen Set,9,12.98,116.82
+288,2025-07-29,North,Electronics,Laptop,8,854.77,6838.16
+289,2025-07-30,East,Electronics,Keyboard,8,44.12,352.96
+290,2025-07-30,West,Office Supplies,Printer Paper,2,16.35,32.7
+291,2025-07-31,East,Office Supplies,Pen Set,6,12.32,73.92
+292,2025-08-01,South,Electronics,Mouse,1,22.28,22.28
+293,2025-08-02,South,Electronics,Keyboard,1,40.75,40.75
+294,2025-08-02,North,Office Supplies,Stapler,5,10.78,53.9
+295,2025-08-03,South,Furniture,Table,6,286.04,1716.24
+296,2025-08-04,South,Electronics,Mouse,10,21.64,216.4
+297,2025-08-04,North,Office Supplies,Stapler,10,10.26,102.6
+298,2025-08-05,East,Office Supplies,Pen Set,5,11.9,59.5
+299,2025-08-06,East,Furniture,Bookshelf,5,192.48,962.4
+300,2025-08-07,East,Furniture,Bookshelf,7,195.95,1371.65
+301,2025-08-07,East,Furniture,Table,7,246.64,1726.48
+302,2025-08-08,West,Furniture,Bookshelf,1,188.11,188.11
+303,2025-08-09,East,Office Supplies,Stapler,2,11.15,22.3
+304,2025-08-10,East,Furniture,Bookshelf,7,156.53,1095.71
+305,2025-08-10,South,Electronics,Mouse,6,23.64,141.84
+306,2025-08-11,South,Electronics,Mouse,10,27.82,278.2
+307,2025-08-12,East,Office Supplies,Printer Paper,10,17.21,172.1
+308,2025-08-12,East,Office Supplies,Notebook,2,9.05,18.1
+309,2025-08-13,North,Office Supplies,Printer Paper,4,12.99,51.96
+310,2025-08-14,West,Electronics,Monitor,5,218.67,1093.35
+311,2025-08-15,East,Office Supplies,Notebook,10,7.02,70.2
+312,2025-08-15,North,Office Supplies,Stapler,5,10.7,53.5
+313,2025-08-16,West,Office Supplies,Notebook,8,7.49,59.92
+314,2025-08-17,North,Furniture,Desk,5,258.79,1293.95
+315,2025-08-18,North,Electronics,Monitor,9,194.22,1747.98
+316,2025-08-18,East,Office Supplies,Pen Set,5,13.03,65.15
+317,2025-08-19,West,Furniture,Bookshelf,8,200.75,1606.0
+318,2025-08-20,West,Office Supplies,Pen Set,2,10.8,21.6
+319,2025-08-20,South,Office Supplies,Stapler,4,11.01,44.04
+320,2025-08-21,North,Electronics,Keyboard,10,38.88,388.8
+321,2025-08-22,West,Furniture,Chair,1,170.58,170.58
+322,2025-08-23,East,Furniture,Chair,5,155.84,779.2
+323,2025-08-23,North,Electronics,Laptop,3,823.35,2470.05
+324,2025-08-24,South,Electronics,Keyboard,10,45.21,452.1
+325,2025-08-25,East,Furniture,Chair,8,167.88,1343.04
+326,2025-08-26,North,Furniture,Chair,8,161.15,1289.2
+327,2025-08-26,North,Electronics,Mouse,5,21.94,109.7
+328,2025-08-27,South,Office Supplies,Printer Paper,9,12.95,116.55
+329,2025-08-28,East,Furniture,Chair,8,169.42,1355.36
+330,2025-08-28,South,Office Supplies,Pen Set,8,11.11,88.88
+331,2025-08-29,North,Office Supplies,Notebook,10,8.08,80.8
+332,2025-08-30,South,Electronics,Mouse,5,28.69,143.45
+333,2025-08-31,West,Electronics,Mouse,3,27.44,82.32
+334,2025-08-31,East,Furniture,Table,1,278.4,278.4
+335,2025-09-01,North,Electronics,Keyboard,9,42.76,384.84
+336,2025-09-02,East,Electronics,Laptop,10,705.4,7054.0
+337,2025-09-03,North,Furniture,Table,7,278.62,1950.34
+338,2025-09-03,South,Furniture,Chair,3,167.06,501.18
+339,2025-09-04,East,Furniture,Table,5,268.26,1341.3
+340,2025-09-05,North,Furniture,Table,2,274.91,549.82
+341,2025-09-06,West,Office Supplies,Pen Set,1,12.22,12.22
+342,2025-09-06,West,Office Supplies,Pen Set,8,13.15,105.2
+343,2025-09-07,West,Furniture,Bookshelf,7,182.23,1275.61
+344,2025-09-08,West,Furniture,Bookshelf,5,158.54,792.7
+345,2025-09-08,North,Furniture,Table,1,270.32,270.32
+346,2025-09-09,West,Furniture,Desk,1,260.21,260.21
+347,2025-09-10,East,Office Supplies,Pen Set,2,13.76,27.52
+348,2025-09-11,West,Electronics,Mouse,4,26.11,104.44
+349,2025-09-11,North,Electronics,Mouse,7,21.74,152.18
+350,2025-09-12,East,Furniture,Bookshelf,3,166.64,499.92
+351,2025-09-13,North,Furniture,Desk,2,344.74,689.48
+352,2025-09-14,East,Office Supplies,Notebook,9,7.19,64.71
+353,2025-09-14,East,Electronics,Laptop,4,881.59,3526.36
+354,2025-09-15,East,Furniture,Table,6,222.35,1334.1
+355,2025-09-16,North,Electronics,Monitor,8,215.53,1724.24
+356,2025-09-16,South,Office Supplies,Stapler,5,10.42,52.1
+357,2025-09-17,North,Office Supplies,Notebook,5,9.16,45.8
+358,2025-09-18,North,Furniture,Table,6,229.75,1378.5
+359,2025-09-19,West,Office Supplies,Stapler,1,10.46,10.46
+360,2025-09-19,North,Furniture,Bookshelf,8,161.6,1292.8
+361,2025-09-20,East,Electronics,Laptop,5,716.88,3584.4
+362,2025-09-21,North,Furniture,Desk,4,256.61,1026.44
+363,2025-09-22,South,Electronics,Mouse,10,25.87,258.7
+364,2025-09-22,West,Office Supplies,Notebook,7,7.1,49.7
+365,2025-09-23,South,Electronics,Monitor,9,197.61,1778.49
+366,2025-09-24,West,Furniture,Chair,5,154.06,770.3
+367,2025-09-24,South,Office Supplies,Stapler,1,8.53,8.53
+368,2025-09-25,East,Furniture,Table,2,248.5,497.0
+369,2025-09-26,South,Furniture,Table,9,277.01,2493.09
+370,2025-09-27,North,Electronics,Mouse,6,26.87,161.22
+371,2025-09-27,East,Electronics,Mouse,9,25.53,229.77
+372,2025-09-28,West,Furniture,Desk,4,286.14,1144.56
+373,2025-09-29,North,Furniture,Table,1,251.33,251.33
+374,2025-09-30,South,Electronics,Laptop,1,877.88,877.88
+375,2025-09-30,South,Furniture,Bookshelf,2,205.78,411.56
+376,2025-10-01,South,Furniture,Desk,2,328.93,657.86
+377,2025-10-02,North,Office Supplies,Stapler,1,11.35,11.35
+378,2025-10-03,North,Office Supplies,Printer Paper,6,15.43,92.58
+379,2025-10-03,West,Office Supplies,Printer Paper,9,15.94,143.46
+380,2025-10-04,East,Furniture,Table,4,237.96,951.84
+381,2025-10-05,South,Office Supplies,Printer Paper,4,15.24,60.96
+382,2025-10-05,East,Furniture,Desk,10,298.28,2982.8
+383,2025-10-06,South,Electronics,Mouse,10,24.54,245.4
+384,2025-10-07,North,Furniture,Table,7,261.27,1828.89
+385,2025-10-08,South,Electronics,Keyboard,10,42.69,426.9
+386,2025-10-08,West,Electronics,Mouse,7,24.5,171.5
+387,2025-10-09,East,Office Supplies,Stapler,2,8.56,17.12
+388,2025-10-10,East,Furniture,Chair,8,171.37,1370.96
+389,2025-10-11,South,Furniture,Bookshelf,3,164.91,494.73
+390,2025-10-11,North,Office Supplies,Printer Paper,1,16.53,16.53
+391,2025-10-12,West,Furniture,Chair,10,160.92,1609.2
+392,2025-10-13,South,Electronics,Mouse,4,25.04,100.16
+393,2025-10-13,North,Electronics,Keyboard,9,44.17,397.53
+394,2025-10-14,South,Furniture,Table,4,278.01,1112.04
+395,2025-10-15,South,Furniture,Bookshelf,10,206.58,2065.8
+396,2025-10-16,West,Furniture,Chair,3,155.53,466.59
+397,2025-10-16,West,Electronics,Keyboard,1,40.03,40.03
+398,2025-10-17,South,Furniture,Bookshelf,10,165.83,1658.3
+399,2025-10-18,North,Furniture,Bookshelf,5,199.14,995.7
+400,2025-10-19,East,Electronics,Monitor,6,244.47,1466.82
+401,2025-10-19,South,Furniture,Table,7,239.44,1676.08
+402,2025-10-20,North,Office Supplies,Pen Set,1,11.61,11.61
+403,2025-10-21,North,Furniture,Bookshelf,5,153.49,767.45
+404,2025-10-21,South,Electronics,Keyboard,10,39.24,392.4
+405,2025-10-22,North,Furniture,Chair,10,157.62,1576.2
+406,2025-10-23,West,Electronics,Laptop,4,821.09,3284.36
+407,2025-10-24,North,Electronics,Laptop,6,720.23,4321.38
+408,2025-10-24,North,Office Supplies,Notebook,5,8.08,40.4
+409,2025-10-25,East,Electronics,Mouse,8,25.64,205.12
+410,2025-10-26,South,Furniture,Table,4,232.73,930.92
+411,2025-10-27,North,Electronics,Keyboard,5,50.89,254.45
+412,2025-10-27,North,Electronics,Keyboard,3,44.35,133.05
+413,2025-10-28,South,Office Supplies,Notebook,1,8.02,8.02
+414,2025-10-29,East,Furniture,Table,5,248.49,1242.45
+415,2025-10-29,North,Office Supplies,Pen Set,2,11.36,22.72
+416,2025-10-30,South,Electronics,Keyboard,8,45.21,361.68
+417,2025-10-31,West,Office Supplies,Stapler,6,8.92,53.52
+418,2025-11-01,South,Furniture,Chair,4,159.21,636.84
+419,2025-11-01,East,Office Supplies,Stapler,2,9.07,18.14
+420,2025-11-02,South,Electronics,Mouse,6,27.76,166.56
+421,2025-11-03,South,Office Supplies,Pen Set,1,13.22,13.22
+422,2025-11-04,South,Office Supplies,Pen Set,2,11.08,22.16
+423,2025-11-04,West,Office Supplies,Stapler,1,8.59,8.59
+424,2025-11-05,East,Electronics,Monitor,4,231.65,926.6
+425,2025-11-06,North,Office Supplies,Stapler,5,10.5,52.5
+426,2025-11-07,South,Furniture,Desk,2,344.95,689.9
+427,2025-11-07,West,Office Supplies,Notebook,1,7.78,7.78
+428,2025-11-08,North,Electronics,Laptop,5,816.08,4080.4
+429,2025-11-09,South,Office Supplies,Stapler,2,9.71,19.42
+430,2025-11-09,North,Furniture,Bookshelf,6,201.67,1210.02
+431,2025-11-10,North,Electronics,Keyboard,3,49.98,149.94
+432,2025-11-11,East,Furniture,Desk,7,255.52,1788.64
+433,2025-11-12,North,Electronics,Mouse,10,24.22,242.2
+434,2025-11-12,West,Office Supplies,Stapler,9,10.29,92.61
+435,2025-11-13,East,Electronics,Keyboard,6,39.24,235.44
+436,2025-11-14,North,Furniture,Desk,10,323.34,3233.4
+437,2025-11-15,South,Office Supplies,Notebook,10,9.08,90.8
+438,2025-11-15,North,Furniture,Table,5,273.53,1367.65
+439,2025-11-16,West,Electronics,Monitor,5,203.24,1016.2
+440,2025-11-17,South,Office Supplies,Printer Paper,7,16.41,114.87
+441,2025-11-17,East,Office Supplies,Printer Paper,5,13.63,68.15
+442,2025-11-18,East,Office Supplies,Notebook,9,8.37,75.33
+443,2025-11-19,East,Office Supplies,Stapler,5,9.94,49.7
+444,2025-11-20,West,Furniture,Desk,4,278.11,1112.44
+445,2025-11-20,South,Furniture,Bookshelf,3,184.37,553.11
+446,2025-11-21,West,Furniture,Desk,2,279.54,559.08
+447,2025-11-22,South,Furniture,Chair,7,158.15,1107.05
+448,2025-11-23,North,Office Supplies,Notebook,7,7.51,52.57
+449,2025-11-23,West,Furniture,Chair,10,168.8,1688.0
+450,2025-11-24,West,Furniture,Bookshelf,6,182.71,1096.26
+451,2025-11-25,North,Electronics,Monitor,7,229.11,1603.77
+452,2025-11-25,East,Furniture,Table,9,272.03,2448.27
+453,2025-11-26,South,Furniture,Table,10,239.56,2395.6
+454,2025-11-27,West,Electronics,Monitor,5,206.94,1034.7
+455,2025-11-28,South,Office Supplies,Stapler,7,10.5,73.5
+456,2025-11-28,South,Office Supplies,Stapler,10,9.86,98.6
+457,2025-11-29,South,Electronics,Keyboard,1,48.2,48.2
+458,2025-11-30,West,Electronics,Keyboard,5,39.54,197.7
+459,2025-12-01,West,Electronics,Keyboard,3,46.45,139.35
+460,2025-12-01,North,Office Supplies,Pen Set,9,11.61,104.49
+461,2025-12-02,East,Electronics,Monitor,9,252.19,2269.71
+462,2025-12-03,South,Office Supplies,Notebook,2,7.77,15.54
+463,2025-12-04,East,Electronics,Keyboard,9,47.6,428.4
+464,2025-12-04,South,Furniture,Bookshelf,4,192.11,768.44
+465,2025-12-05,North,Office Supplies,Notebook,4,7.01,28.04
+466,2025-12-06,South,Office Supplies,Notebook,8,7.68,61.44
+467,2025-12-06,West,Electronics,Keyboard,4,44.22,176.88
+468,2025-12-07,West,Furniture,Table,5,217.74,1088.7
+469,2025-12-08,East,Electronics,Mouse,6,25.7,154.2
+470,2025-12-09,South,Furniture,Table,10,237.48,2374.8
+471,2025-12-09,East,Furniture,Bookshelf,2,172.6,345.2
+472,2025-12-10,West,Furniture,Bookshelf,4,156.25,625.0
+473,2025-12-11,East,Furniture,Table,5,225.65,1128.25
+474,2025-12-12,South,Office Supplies,Notebook,7,8.09,56.63
+475,2025-12-12,North,Furniture,Chair,7,161.53,1130.71
+476,2025-12-13,West,Office Supplies,Stapler,7,9.7,67.9
+477,2025-12-14,West,Furniture,Chair,4,169.22,676.88
+478,2025-12-14,South,Electronics,Laptop,5,702.3,3511.5
+479,2025-12-15,North,Furniture,Table,7,277.35,1941.45
+480,2025-12-16,West,Furniture,Table,2,217.23,434.46
+481,2025-12-17,North,Electronics,Keyboard,2,42.86,85.72
+482,2025-12-17,East,Electronics,Monitor,9,223.55,2011.95
+483,2025-12-18,South,Office Supplies,Stapler,7,11.33,79.31
+484,2025-12-19,East,Office Supplies,Pen Set,3,13.03,39.09
+485,2025-12-20,West,Furniture,Table,5,241.83,1209.15
+486,2025-12-20,North,Office Supplies,Notebook,10,8.1,81.0
+487,2025-12-21,South,Office Supplies,Pen Set,8,12.12,96.96
+488,2025-12-22,North,Furniture,Bookshelf,7,169.45,1186.15
+489,2025-12-22,South,Office Supplies,Notebook,3,7.22,21.66
+490,2025-12-23,South,Office Supplies,Pen Set,4,12.26,49.04
+491,2025-12-24,North,Electronics,Monitor,9,218.64,1967.76
+492,2025-12-25,South,Office Supplies,Pen Set,1,12.38,12.38
+493,2025-12-25,North,Furniture,Chair,4,150.12,600.48
+494,2025-12-26,North,Furniture,Chair,5,132.98,664.9
+495,2025-12-27,North,Furniture,Table,9,229.94,2069.46
+496,2025-12-28,West,Electronics,Keyboard,4,44.18,176.72
+497,2025-12-28,East,Office Supplies,Pen Set,2,12.54,25.08
+498,2025-12-29,South,Office Supplies,Printer Paper,5,16.26,81.3
+499,2025-12-30,West,Electronics,Monitor,2,190.81,381.62
+500,2025-12-31,East,Office Supplies,Notebook,7,7.37,51.59

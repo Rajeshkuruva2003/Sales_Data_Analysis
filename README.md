@@ -10,7 +10,7 @@ Analyze sales data to identify revenue trends, product performance, and regional
 - Data aggregation and analysis
 - Excel-ready reporting
 - Matplotlib visualization
-- Data quality checks and problem solving
+- Data quality checks and problem solving.
 
 ## Workflow
 1. Load the CSV dataset.
