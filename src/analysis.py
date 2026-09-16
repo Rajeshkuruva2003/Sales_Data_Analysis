@@ -21,7 +21,7 @@ product = df.groupby("product")["sales"].sum().sort_values(ascending=False)
 print("Total Revenue:", round(df["sales"].sum(), 2))
 print("\nRevenue by Region:\n", region)
 print("\nRevenue by Category:\n", category)
-print("\nTop 5 Products:\n", product.head()
+print("\nTop 5 Products:\n", product.head())
 
 monthly.plot(kind="line", marker="o", title="Monthly Sales Trend")
 plt.xlabel("Month"); plt.ylabel("Sales"); plt.tight_layout()
